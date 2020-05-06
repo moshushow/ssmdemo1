@@ -8,7 +8,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>查询用户！</title>
+<title>查询用户</title>
 </head>
 <body>
 	<form action="pro/queryById.do" method="post">
